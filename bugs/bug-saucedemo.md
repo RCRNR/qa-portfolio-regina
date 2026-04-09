@@ -10,3 +10,7 @@ Mensagem genérica ou pouco clara
 
 Severidade:
 Média
+
+## Evidência
+
+![Erro no login](../evidencias/erro-login.png)
