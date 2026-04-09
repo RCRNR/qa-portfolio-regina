@@ -11,6 +11,11 @@ Atuar como Analista de Testes (QA), contribuindo para a qualidade de aplicaçõe
 ---
 
 ## 📂 Projetos
+## 📂 Estrutura do Projeto
+
+- casos-de-teste/: cenários de teste
+- bugs/: registro de falhas encontradas
+- evidencias/: imagens dos testes realizados
 
 ### ✅ Casos de Teste
 - Validação de login com dados válidos  
